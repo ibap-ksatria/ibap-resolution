@@ -5,3 +5,4 @@ Rencana content
 - Git tag
 2. Publish content
 3. Kolaborasi
+4. Bikin meteri baru
