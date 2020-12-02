@@ -1,0 +1,7 @@
+Rencana content
+1. Mebuat kontent
+- Serverside
+- CLient side
+- Git tag
+2. Publish content
+3. Kolaborasi
